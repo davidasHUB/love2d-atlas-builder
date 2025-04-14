@@ -74,11 +74,11 @@ this makes accesing frames a bit more easy and is really useful for making anima
 
 ```lua
 	
-	local serial= require "serial"
+local serial= require "serial"
 	
-	function love.load()
-		local frame_one = serial["pipo-nekokin"][1]
-	end 
+function love.load()
+	local frame_one = serial["pipo-nekokin"][1]
+end 
 
 ```
 
