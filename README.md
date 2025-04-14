@@ -1,6 +1,6 @@
 ## atlas builder modified 
 
-this is a modified version o the [atlas builder](https://github.com/elloramir/packer) made by [ello](https://github.com/elloramir?tab=repositories)
+this is a modified version of the [atlas builder](https://github.com/elloramir/packer) made by [ello](https://github.com/elloramir?tab=repositories)
 my goals with this modification was...
 
 - make the atlas builder works in new löve versions
