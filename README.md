@@ -70,7 +70,7 @@ return {
 }
 ```
 
-this makes accesing frames a bit more easy and is really useful for making animations systhems
+this makes accesing frames a bit more easy and is really useful for making animations systems
 
 ```lua
 	
