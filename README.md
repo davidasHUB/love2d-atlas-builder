@@ -84,10 +84,13 @@ end
 
 
 #TODO
+
 - [x] lua module target
+- [ ] add a set_directory
 - [ ] json target 
 - [ ] c array target 
-- [ ] Odin target 
+- [ ] Odin target
+
 
 ### credits/links
 
