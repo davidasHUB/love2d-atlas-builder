@@ -82,6 +82,13 @@ end
 
 ```
 
+
+#TODO
+- [x] lua module target
+- [ ] json target 
+- [ ] c array target 
+- [ ] Odin target 
+
 ### credits/links
 
 - [atlas builder(original)](https://github.com/elloramir/packer)
